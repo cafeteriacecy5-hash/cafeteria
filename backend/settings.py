@@ -76,7 +76,6 @@ DATABASES = {
         'PASSWORD': 'JxBhVUxuBXEdREYNRZLrwqEuYQHKlMbo',
         'HOST': 'zephyr.proxy.rlwy.net',
         'PORT': '26879',
-        'DB': 'railway'
     }
 }
 
